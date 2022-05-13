@@ -42,3 +42,7 @@ btnEnv.addEventListener("click", () => {
   console.log("La potencia es = " + potenciaNumero2(base, exponente));
   console.log("La potencia es = " + potenciaNumero3(base, exponente));
 });
+
+/* visto y leído en: Repositorio Prof. Daniel Tonelli
+Link: https://codesandbox.io/s/github/daniel-tonelli/Repositorio 
+*/
