@@ -1,0 +1,2 @@
+# Clase6_metodos_ejercicioPotencias_viernes-6Mayo
+Created with CodeSandbox
